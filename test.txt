@@ -1,3 +1,7 @@
 Test commit
+<<<<<<< HEAD
 
 
+=======
+Mission complete
+>>>>>>> bc52cc222066de97de63f8448b640edaca05f67b
